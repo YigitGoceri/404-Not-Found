@@ -11,7 +11,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/YigitGoceri/404-Not-Found/blob/main/404NotFound.html">
+    <a href="https://github.com/YigitGoceri/404-Not-Found/blob/main/index.html">
       Solution
     </a>
     <span> | </span>
